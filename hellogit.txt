@@ -5,4 +5,6 @@ hello git
 hello git
 hello git
 hello git
-feature-blue
+feature-blue 
+merge test
+
