@@ -7,3 +7,6 @@ hello git
 hello git
 hot-gix
 merggggggg
+feature-blue 
+merge test
+merge finished
